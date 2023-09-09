@@ -1,3 +1,7 @@
 *.class
+
+# Ignore the "images" folder
+/images/
+
+# Ignore any files with the ".jpg" extension
 *.jpg
-* images/
