@@ -15,7 +15,7 @@ To run this project, you need to install **Java** and **JDK**.
 2. After cloning the repository, change the directory to the project directory using the following command:
 
     ```
-    cd Calculator-JavaSwing
+    cd Calculator-JavaSwing-project2
     ```
 
 3. Compile the code:
