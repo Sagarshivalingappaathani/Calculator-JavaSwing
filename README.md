@@ -9,7 +9,7 @@ To run this project, you need to install **Java** and **JDK**.
 1. Once you have installed JDK, you can either clone this repository or fork it. To clone this repository, run the following command in the terminal or command prompt:
 
     ```
-    git clone https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/.git
+    git clone https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2.git
     ```
 
 2. After cloning the repository, change the directory to the project directory using the following command:
