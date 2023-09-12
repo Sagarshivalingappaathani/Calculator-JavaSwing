@@ -45,4 +45,4 @@ This calculator application implements the following features using Java Swing:
 
 | Screenshot 1                                     |
 | ------------------------------------------------ | 
-| ![Screenshot 1](./images/Screenshot%202023-09-09%20020411.png) | 
+| ![image](https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/images/Screenshot%202023-09-09%20020411.png) | 
