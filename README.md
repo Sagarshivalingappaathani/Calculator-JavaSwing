@@ -1,4 +1,4 @@
-﻿# ![image](https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/9cb0ce12-c647-424f-ae94-5173f057f027)  Calculator (Java Swing)
+﻿# ![image](https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/c6271dc3-b998-434b-91aa-bbdaacf9038c)Calculator (Java Swing)
 
 ## Installation Instructions
 
@@ -41,8 +41,3 @@ This calculator application implements the following features using Java Swing:
   - Division of two numbers
 - All these operations are done using Swing's JFrame Components.
 
-## Screenshots
-
-| Screenshot 1                                     |
-| ------------------------------------------------ | 
-| ![image](https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/images/Screenshot%202023-09-09%20020411.png) | 
