@@ -43,6 +43,6 @@ This calculator application implements the following features using Java Swing:
 
 ## Screenshots
 
-| Screenshot 1                                     | Screenshot 2                                     |
-| ------------------------------------------------ | ------------------------------------------------ |
-| ![Screenshot 1](./images/Screenshot%202023-09-09%20020309.png) | ![Screenshot 2](./images/Screenshot%202023-09-09%20020411.png) |
+| Screenshot 1                                     |
+| ------------------------------------------------ | 
+| ![Screenshot 1](./images/Screenshot%202023-09-09%20020411.png) | 
