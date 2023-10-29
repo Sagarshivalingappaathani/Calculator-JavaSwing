@@ -41,3 +41,13 @@ This calculator application implements the following features using Java Swing:
   - Division of two numbers
 - All these operations are done using Swing's JFrame Components.
 
+
+## Screenshots
+
+<div align="center">
+  <img src="https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/dc2ef84c-8032-4eb9-8599-ad852d305077" width="45%" alt="Screenshot 1">
+  <img src="https://github.com/Sagarshivalingappaathani/Calculator-JavaSwing-project2/assets/121311033/8d1249f7-8193-46f5-bade-0fa1a4d589cd" width="45%" alt="Screenshot 2">
+</div>
+
+
+
